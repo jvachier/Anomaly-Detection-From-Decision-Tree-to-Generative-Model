@@ -9,3 +9,6 @@ Anamaly detection plays an important role in predictive maintenance. Often anoma
     a- Deep Neural Network \
     b- Recurrent Neural Network (LSTM)
 3) Variational AutoEncoder: Recurrent Neural Network (LSTM)
+
+Also available on my Kaggle profile: \
+https://www.kaggle.com/jvachier/anomaly-detection
