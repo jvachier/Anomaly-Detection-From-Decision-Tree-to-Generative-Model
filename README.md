@@ -1,4 +1,4 @@
-# Anomaly Detection: From Decision Tree to Generative Model
+# Anomaly Detection: From Decision Tree to Generative Model - GPU
 
 **Author**: Jeremy Vachier\
 **Date**: 2024
